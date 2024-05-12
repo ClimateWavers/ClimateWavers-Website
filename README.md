@@ -1,4 +1,5 @@
 # ClimateWavers Website
+![image](https://github.com/ClimateWavers/ClimateWavers-Website/assets/133222922/18d6e5a1-747c-4fdb-89a5-79e74faeeca6)
 
 Welcome to the ClimateWavers website repository! This repository contains the source code for the ClimateWavers website, a platform dedicated to connecting individuals and organizations to combat climate change.
 
