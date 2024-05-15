@@ -75,4 +75,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or inquiries about the ClimateWavers website, please contact: climatewaver@gmail.com.
+For questions or inquiries about the ClimateWavers website, please contact:climatewaver@gmail.com.
