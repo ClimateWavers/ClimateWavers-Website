@@ -1,5 +1,7 @@
 # ClimateWavers Website
 
+![image](https://github.com/ClimateWavers/ClimateWavers-Website/assets/133222922/18d6e5a1-747c-4fdb-89a5-79e74faeeca6)
+
 Welcome to the ClimateWavers website repository! This repository contains the source code for the ClimateWavers website, a platform dedicated to connecting individuals and organizations to combat climate change.
 
 ## About ClimateWavers
@@ -49,7 +51,6 @@ Support our mission financially by exploring our donation feature. Your contribu
 - **Detailed Footer:** Include a comprehensive footer section with relevant links, contact information, and social media integration.
 - **Contact Form UI:** Provide a visually appealing and user-friendly contact form for easy communication.
 - **Newsletter Subscription Form UI:** Encourage visitors to subscribe to newsletters with an attractive and accessible subscription form UI.
-
 
 ## Getting Started
 
