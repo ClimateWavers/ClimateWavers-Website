@@ -87,6 +87,7 @@
 .topbar {
   padding: 2px 10px 2px 20px;
   background: var(--bs-primary) !important;
+  border-radius: 10px 10px 0px 0px;
 }
 
 .topbar a,
@@ -109,6 +110,7 @@
 /*** Navbar Start ***/
 .navbar {
   padding: 0;
+  border-radius: 0px 0px 10px 10px; 
 }
 
 .navbar .navbar-nav .nav-link {
@@ -121,7 +123,7 @@
 .navbar .navbar-nav .nav-link.active,
 .sticky-top.bg-white .navbar .navbar-nav .nav-link:hover,
 .sticky-top.bg-white .navbar .navbar-nav .nav-link.active {
-  color: var(--bs-primary);
+  color: var(--bs-yellow);
 }
 
 .navbar .dropdown-toggle::after {
@@ -160,9 +162,13 @@
 .navbar .nav-item:hover .dropdown-menu {
   transform: rotateX(0deg);
   visibility: visible;
-  background: var(--bs-light) !important;
+  background: var(--bs-green) !important;
   transition: 0.5s;
   opacity: 1;
+}
+.pat
+{
+  border-radius: 10px;
 }
 /*** Navbar End ***/
 
