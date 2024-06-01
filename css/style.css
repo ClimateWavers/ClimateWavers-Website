@@ -110,7 +110,7 @@
 /*** Navbar Start ***/
 .navbar {
   padding: 0;
-  border-radius: 0px 0px 10px 10px; 
+  border-radius: 0px 0px 10px 10px;
 }
 
 .navbar .navbar-nav .nav-link {
@@ -166,8 +166,7 @@
   transition: 0.5s;
   opacity: 1;
 }
-.pat
-{
+.pat {
   border-radius: 10px;
 }
 /*** Navbar End ***/
@@ -222,20 +221,16 @@
 .carousel-header #carouselId.carousel .carousel-indicators {
   position: absolute;
   bottom: 0;
-  left: 0;
+  left: 50%;
+  transform: translateX(-50%);
   display: flex;
   align-items: center;
   justify-content: center;
   background: transparent !important;
 }
 
-.carousel-header #carouselId.carousel .carousel-indicators li,
-.carousel-header #carouselId.carousel .carousel-indicators li,
 .carousel-header #carouselId.carousel .carousel-indicators li {
   margin-right: 30px !important;
-}
-
-.carousel-header #carouselId.carousel .carousel-indicators li {
   width: 12px;
   height: 12px;
   border-radius: 12px !important;
@@ -246,6 +241,53 @@
 .carousel-header #carouselId.carousel .carousel-indicators li.active {
   border: 5px solid var(--bs-primary) !important;
   border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+  .carousel-header
+    #carouselId
+    .carousel-inner
+    .carousel-item
+    .carousel-caption {
+    padding-top: 40px;
+  }
+
+  .carousel-header
+    #carouselId
+    .carousel-inner
+    .carousel-item
+    .carousel-caption
+    h1 {
+    font-size: 2rem;
+  }
+
+  .carousel-header
+    #carouselId
+    .carousel-inner
+    .carousel-item
+    .carousel-caption
+    h4 {
+    font-size: 1rem;
+  }
+
+  .carousel-header
+    #carouselId
+    .carousel-inner
+    .carousel-item
+    .carousel-caption
+    p {
+    font-size: 0.9rem;
+  }
+
+  .carousel-header
+    #carouselId
+    .carousel-inner
+    .carousel-item
+    .carousel-caption
+    .btn {
+    font-size: 0.9rem;
+    padding: 0.5rem 1rem;
+  }
 }
 /*** Carousel End ***/
 
