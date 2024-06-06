@@ -76,3 +76,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For questions or inquiries about the ClimateWavers website, please contact:climatewaver@gmail.com.
+
+**The website is now live at [www.climatewavers.co.ke](http://www.climatewavers.co.ke).**
