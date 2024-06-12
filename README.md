@@ -1,6 +1,7 @@
 # ClimateWavers Website
 
-![image](https://github.com/ClimateWavers/ClimateWavers-Website/assets/133222922/18d6e5a1-747c-4fdb-89a5-79e74faeeca6)
+![image](https://github.com/ClimateWavers/ClimateWavers-Website/assets/133222922/7d38c038-a78c-4585-ac10-3e22b76961a3)
+
 
 Welcome to the ClimateWavers website repository! This repository contains the source code for the ClimateWavers website, a platform dedicated to connecting individuals and organizations to combat climate change.
 
@@ -76,3 +77,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For questions or inquiries about the ClimateWavers website, please contact:climatewaver@gmail.com.
+
+**The website is now live at [www.climatewavers.co.ke](http://www.climatewavers.co.ke).**
