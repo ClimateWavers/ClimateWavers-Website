@@ -30,6 +30,7 @@
 .btn {
   font-weight: 600;
   transition: 0.5s;
+  border-radius: 10px;
 }
 
 .btn-square {
